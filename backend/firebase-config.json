@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "aluguelcarros-46147",
+    "private_key_id": "f41e399a1f9ce20b10892c1bbfb7b5e1e66f8014",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHrjHKIRnQEPxc\ng22dEpE5gYRWJq3r4CtQawKUeu/htbblSwTFEM9ZXEZDzKJeVCHk3PhKai3qipih\nYg7D6WCSuxRzHuqyAV2iNupthhcejQZ/fjpkFmqWXIV3N1jam1SNvMrAG0WJJWm3\nhErYKzE2/TNu4y5bRMIbGSXxZL1C27itd32+dyH+pS0aDWNO6RKcJWKb/arz+iOe\nRaiDfm56Am6czGtTg1uI/1585eqmUiX+MhpKzsS2XihaYCda7WNBfsbH7jgJwl4e\nlzGWpisdmC4nPIGU4L3P9gtdhRmvh9kyBx+upPTsj/OomKFQ4H/bx2ATpfoJkF32\n8dMef2+BAgMBAAECggEAIoLx6gyEiJiW9WplxJMT9It1EurGfpEVC2YjYQRKd4lP\nnhu0LFc2byxqnIc+vOzvmr2yUDI/01y2+pWXFbc9UL7yzt7WE4P26fVx2RIm5snb\nCKgJcYkKTQiarLstKUNVftXVeRR9lTGZLvW3ddspO2bRv+WV+oJMxiA3lZwite4z\ntxKVraGHRxWkEBdg5zcsEUMUULfbh1AyaBoCK7Ng/GIs3p4RECEaHOARMay1xGXu\n7XI2giZEwam3UHTvS6CuCyw9nExmItJTBjPuLNhjCIxxBoCyksOayQS32Oe5d699\nusB5CEPcZ3e+l5wPad/Aljo78k0G5LGMNKt3+xW9/QKBgQDmW9U3YIKBQoCo+hcm\n2nlHPEB2C5uEosKtG/d1yLqQpnZJcjtgv53RgaX4z/yIt/oZ3HJFJ6t6zeW9eUeH\n8SV8iB4JD5S0t1cmi+MHiKjTjjsG1HmPzgeXBYLbri7ZlBngXyQqw1OnFO4RcUO4\n7POjjm2q5iU/enFPM29yhVPQ3wKBgQDd6CvlrPap/Mhv1df5RYnHbqY3WtaJ3sWm\nu4V/Dyq66dQIZmpD9PawEQSwA/jsBRZRFBhiP7XbgSDoT2fGyza4gjmxEvTQ+Tmz\nuvT5mnyK3Y1ZKNIQDS2ZOj67kfco//Km+wVnwpffFzSKEJQ8IMY5qrIvqY9Bt/N8\nSFeIs8zrnwKBgQCmYFFhC712anfOk8LA9y58+tF78OpEI+IDcZ2LXo0RCImKhozI\nVd1AgilDycSVYnuqzgNiW0KJEckKzluRneP7S7yVwsEevQSe/I3e1R9KnQGY70FV\nUfM9ameXDvkbgNInsc/HawgyNvWzd2D4YXue97HRqyPf8yl/kKC/z/g3dQKBgDFQ\nOxEbUuWLy28u8oPutCOhr0Z15V9WJk5bNdt6n2BSPlBvkgXwFjIiVgxXlaW9q6vw\n70pGJj/Vfl6h5soCtvJh3jg/ojAecnhCf9ZIQo0JlzPNIoF2rD909iPw2CBAYMhC\n2Hyqfd2R5pcYABksn2CJUnfNEozkODPST8GNU2i5AoGBAItxBFKFOlu5Kckxjw9f\nrvBXuOnXhDO5cNSv31g++eSCpYo2mIJoXMkupJeRqyBS19rgy6V/meT92mhPKYH9\nATpMqZDL6kzT3tB+taAH7Al3BBEFTTsob8fY8BMmTFT84HNKyrqhQLneXNZCk+P6\n/oBB36qYL0tAK3q1jyjFPhTP\n-----END PRIVATE KEY-----\n",
+    "client_email": "firebase-adminsdk-fbsvc@aluguelcarros-46147.iam.gserviceaccount.com",
+    "client_id": "115307677254600399069",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40aluguelcarros-46147.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
